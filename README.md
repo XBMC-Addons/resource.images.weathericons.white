@@ -1,1 +1,0 @@
-# resource.images.weather.white
