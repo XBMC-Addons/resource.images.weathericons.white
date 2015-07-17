@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="resource.images.weather.white" name="White Weather Icons" version="0.0.1" provider-name="Team Kodi">
+<addon id="resource.images.weather.white" name="Weather Icons - White" version="0.0.1" provider-name="Team Kodi">
 	<extension point="kodi.resource.images" type="weather" />
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">White Weather Icons</summary>
